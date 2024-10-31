@@ -1,0 +1,7 @@
+build/
+.DS_Store*
+.ipynb_checkpoints/
+.vscode/
+src/main.dSYM/
+Battery/
+3d_sample_data_set_sofa/
